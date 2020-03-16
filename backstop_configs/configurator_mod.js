@@ -1,0 +1,101 @@
+module.exports = {
+	"scenarios": [
+		{
+			"label": "Configurator step 2",
+			"cookiePath": "",
+			"url": "",
+			"referenceUrl": "",
+			"readyEvent": "",
+			"readySelector": ".modification-list",
+			"delay": 1500,
+			"hideSelectors": [],
+			"removeSelectors": [],
+			"hoverSelector": "",
+			"clickSelector": [],
+			"postInteractionWait": 0,
+			"selectors": [],
+			"selectorExpansion": true,
+			"expect": 0,
+			"misMatchThreshold" : 0.1,
+			"requireSameDimensions": true
+		  },
+		  {
+			"label": "Configurator step mod compare",
+			"cookiePath": "",
+			"url": "",
+			"referenceUrl": "",
+			"readyEvent": "",
+			"readySelector": ".modification-item",
+			"delay": 5000,
+			"onReadyScript": "puppet/onReady.js",
+			"hideSelectors": [],
+			"removeSelectors": [],
+			"hoverSelector": "",
+			"clickSelector": [".modification-item .df-iconed-link"],
+			"postInteractionWait": 5000,
+			"selectors": [],
+			"selectorExpansion": true,
+			"expect": 0,
+			"misMatchThreshold" : 0.1,
+			"requireSameDimensions": true
+		  },
+		  {
+			"label": "Configurator step 2 mobile line",
+			"cookiePath": "",
+			"url": "",
+			"referenceUrl": "",
+			"readyEvent": "",
+			"readySelector": ".modification-list",
+			"delay": 1000,
+			"hideSelectors": [],
+			"removeSelectors": [],
+			"hoverSelector": "",
+			"clickSelector": [".side-bar-m__more"],
+			"postInteractionWait": 2000,
+			"selectors": [],
+			"selectorExpansion": true,
+			"expect": 0,
+			"misMatchThreshold" : 0.1,
+			"requireSameDimensions": true,
+			"viewports": [{
+			  "label": "iPad",
+			  "width": 1024,
+			  "height": 768
+			},
+			{
+			  "label": "tablet",
+			  "width": 768,
+			  "height": 500
+			},
+			{
+			  "label": "mobile",
+			  "width": 320,
+			  "height": 500
+			}]
+		  },
+		  {
+			"label": "Configurator step test--drive popup",
+			"cookiePath": "",
+			"url": "",
+			"referenceUrl": "",
+			"readyEvent": "",
+			"readySelector": ".modification-list",
+			"delay": 1000,
+			"hideSelectors": [],
+			"removeSelectors": [],
+			"hoverSelector": "",
+			"clickSelector": [".side-bar__footer-links .df-iconed-link--small"],
+			"postInteractionWait": 2000,
+			"selectors": [],
+			"selectorExpansion": true,
+			"expect": 0,
+			"misMatchThreshold" : 0.1,
+			"requireSameDimensions": true,
+			"viewports": [{
+				"label": "desctop",
+				"width": 1920,
+				"height": 1080
+			}]
+		  },
+	],
+}

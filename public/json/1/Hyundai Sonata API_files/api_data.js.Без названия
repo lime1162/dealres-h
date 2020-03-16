@@ -1,0 +1,255 @@
+define({ "api": [
+  {
+    "type": "get",
+    "url": "rest/car",
+    "title": "001. Список моделей автомобилей",
+    "name": "GetCarModelList",
+    "group": "Car",
+    "header": {
+      "fields": {
+        "HeaderGroup": [
+          {
+            "group": "HeaderGroup",
+            "type": "String",
+            "optional": false,
+            "field": "X-Requested-With",
+            "defaultValue": "XMLHttpRequest",
+            "description": "<p>Ajax.</p>"
+          }
+        ]
+      }
+    },
+    "parameter": {
+      "fields": {
+        "Аттрибуты GET": [
+          {
+            "group": "Аттрибуты GET",
+            "type": "Integer",
+            "optional": false,
+            "field": "car_id",
+            "description": "<p>ID авто</p>"
+          },
+          {
+            "group": "Аттрибуты GET",
+            "type": "Integer",
+            "optional": false,
+            "field": "modification_id",
+            "description": "<p>ID модификации</p>"
+          },
+          {
+            "group": "Аттрибуты GET",
+            "type": "Integer",
+            "optional": false,
+            "field": "complectation_id",
+            "description": "<p>ID комплектации</p>"
+          },
+          {
+            "group": "Аттрибуты GET",
+            "type": "Integer",
+            "optional": false,
+            "field": "package_id",
+            "description": "<p>ID пакета</p>"
+          },
+          {
+            "group": "Аттрибуты GET",
+            "type": "Integer",
+            "optional": false,
+            "field": "color_exterior_id",
+            "description": "<p>ID цвета экстерьера</p>"
+          },
+          {
+            "group": "Аттрибуты GET",
+            "type": "Integer",
+            "optional": false,
+            "field": "color_interior_id",
+            "description": "<p>ID цвета интерьера</p>"
+          },
+          {
+            "group": "Аттрибуты GET",
+            "type": "Integer",
+            "optional": false,
+            "field": "price_from",
+            "description": "<p>Цена ОТ</p>"
+          },
+          {
+            "group": "Аттрибуты GET",
+            "type": "Integer",
+            "optional": false,
+            "field": "price_to",
+            "description": "<p>Цена ДО</p>"
+          }
+        ]
+      }
+    },
+    "success": {
+      "fields": {
+        "Success 200": [
+          {
+            "group": "Success 200",
+            "type": "Object",
+            "optional": false,
+            "field": "models",
+            "description": "<p>Модели авто</p>"
+          },
+          {
+            "group": "Success 200",
+            "type": "Number",
+            "optional": false,
+            "field": "models.id",
+            "description": "<p>ID</p>"
+          },
+          {
+            "group": "Success 200",
+            "type": "Number",
+            "optional": false,
+            "field": "models.car_id",
+            "description": "<p>ID авто</p>"
+          },
+          {
+            "group": "Success 200",
+            "type": "Number",
+            "optional": false,
+            "field": "models.modification_id",
+            "description": "<p>ID модификации</p>"
+          },
+          {
+            "group": "Success 200",
+            "type": "Number",
+            "optional": false,
+            "field": "models.complectation_id",
+            "description": "<p>ID комплектации</p>"
+          },
+          {
+            "group": "Success 200",
+            "type": "Number",
+            "optional": false,
+            "field": "models.package_id",
+            "description": "<p>ID пакета</p>"
+          },
+          {
+            "group": "Success 200",
+            "type": "Number",
+            "optional": false,
+            "field": "models.color_exterior_id",
+            "description": "<p>ID цвета экстерьера</p>"
+          },
+          {
+            "group": "Success 200",
+            "type": "Number",
+            "optional": false,
+            "field": "models.color_interior_id",
+            "description": "<p>ID цвета интерьера</p>"
+          },
+          {
+            "group": "Success 200",
+            "type": "Number",
+            "optional": false,
+            "field": "models.count_available",
+            "description": "<p>Количество доступных авто</p>"
+          },
+          {
+            "group": "Success 200",
+            "type": "Number",
+            "optional": false,
+            "field": "models.count_show",
+            "description": "<p>Количество переходов на просмотр модели</p>"
+          },
+          {
+            "group": "Success 200",
+            "type": "Number",
+            "optional": false,
+            "field": "models.price",
+            "description": "<p>Цена</p>"
+          },
+          {
+            "group": "Success 200",
+            "type": "Object",
+            "optional": false,
+            "field": "similar_models",
+            "description": "<p>Похожие 4 модели авто</p>"
+          },
+          {
+            "group": "Success 200",
+            "type": "Number",
+            "optional": false,
+            "field": "similar_models.id",
+            "description": "<p>ID</p>"
+          },
+          {
+            "group": "Success 200",
+            "type": "Number",
+            "optional": false,
+            "field": "similar_models.car_id",
+            "description": "<p>ID авто</p>"
+          },
+          {
+            "group": "Success 200",
+            "type": "Number",
+            "optional": false,
+            "field": "similar_models.modification_id",
+            "description": "<p>ID модификации</p>"
+          },
+          {
+            "group": "Success 200",
+            "type": "Number",
+            "optional": false,
+            "field": "similar_models.complectation_id",
+            "description": "<p>ID комплектации</p>"
+          },
+          {
+            "group": "Success 200",
+            "type": "Number",
+            "optional": false,
+            "field": "similar_models.package_id",
+            "description": "<p>ID пакета</p>"
+          },
+          {
+            "group": "Success 200",
+            "type": "Number",
+            "optional": false,
+            "field": "similar_models.color_exterior_id",
+            "description": "<p>ID цвета экстерьера</p>"
+          },
+          {
+            "group": "Success 200",
+            "type": "Number",
+            "optional": false,
+            "field": "similar_models.color_interior_id",
+            "description": "<p>ID цвета интерьера</p>"
+          },
+          {
+            "group": "Success 200",
+            "type": "Number",
+            "optional": false,
+            "field": "similar_models.count_available",
+            "description": "<p>Количество доступных авто</p>"
+          },
+          {
+            "group": "Success 200",
+            "type": "Number",
+            "optional": false,
+            "field": "similar_models.count_show",
+            "description": "<p>Количество переходов на просмотр модели</p>"
+          },
+          {
+            "group": "Success 200",
+            "type": "Number",
+            "optional": false,
+            "field": "similar_models.price",
+            "description": "<p>Цена</p>"
+          }
+        ]
+      },
+      "examples": [
+        {
+          "title": "Success-Response:",
+          "content": "HTTP/1.1 200 OK\n{\n    models: [\n        {\n            id: 2,\n            car_id: 24,\n            modification_id: 205,\n            complectation_id: 421,\n            package_id: 41,\n            color_exterior_id: 130,\n            color_interior_id: 76,\n            count_available: 0,\n            count_show: 0,\n            price: 0\n        },\n        {\n            id: 3,\n            car_id: 24,\n            modification_id: 205,\n            complectation_id: 424,\n            package_id: 41,\n            color_exterior_id: 130,\n            color_interior_id: 77,\n            count_available: 0,\n            count_show: 0,\n            price: 0\n        },\n     ]\n   similar_models: [\n        {\n            id: 2,\n            car_id: 24,\n            modification_id: 205,\n            complectation_id: 424,\n            package_id: 0,\n            color_exterior_id: 139,\n            color_interior_id: 76,\n            count_show: 60,\n            price: 1720000,\n            count_available: 1\n        },\n        {\n            id: 3,\n            car_id: 24,\n            modification_id: 205,\n            complectation_id: 425,\n            package_id: 0,\n            color_exterior_id: 129,\n            color_interior_id: 80,\n            count_show: 44,\n            price: 1720000,\n            count_available: 2\n        },\n        {\n            id: 5,\n            car_id: 24,\n            modification_id: 205,\n            complectation_id: 425,\n            package_id: 41,\n            color_exterior_id: 130,\n            color_interior_id: 80,\n            count_show: 14,\n            price: 1820000,\n            count_available: 1\n        },\n        {\n            id: 9,\n            car_id: 24,\n            modification_id: 205,\n            complectation_id: 425,\n            package_id: 0,\n            color_exterior_id: 131,\n            color_interior_id: 80,\n            count_show: 127,\n            price: 1720000,\n            count_available: 1\n        }\n     ]\n   }",
+          "type": "json"
+        }
+      ]
+    },
+    "version": "0.0.0",
+    "filename": "/var/www/hyusonata/dev-hyusonata/frontend/doc/car.php",
+    "groupTitle": "Car"
+  }
+] });

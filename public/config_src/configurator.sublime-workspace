@@ -1,0 +1,1525 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"time",
+				"timeout\tsetTimeout function"
+			],
+			[
+				"is",
+				"isActive"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"list-",
+				"list-item"
+			],
+			[
+				"text",
+				"text-overflow"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"cla",
+				"classes"
+			],
+			[
+				"comt",
+				"components"
+			],
+			[
+				"GET_CALC",
+				"GET_CALCULATION_HASH"
+			],
+			[
+				"GET_CU",
+				"GET_CURRENT_ID"
+			],
+			[
+				"for",
+				"for\tfor (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"get",
+				"getData"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"cal",
+				"calculator-node"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"over-",
+				"overflow-x"
+			],
+			[
+				"tra",
+				"transform"
+			],
+			[
+				"p",
+				"progress"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"transo",
+				"transition"
+			],
+			[
+				"ic",
+				"ic-svg"
+			],
+			[
+				"ic-",
+				"ic-svg-holder"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"tras",
+				"translate"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"di",
+				"disclaimers"
+			],
+			[
+				"summ",
+				"summary-table-toggler"
+			],
+			[
+				"S",
+				"GET_API_SUMMARY"
+			],
+			[
+				"loa",
+				"LOAD_CACHE"
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"frma",
+				"frames"
+			],
+			[
+				"padd-",
+				"padding-top"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"summary-sticker__",
+				"summary-sticker__payment-currency"
+			],
+			[
+				"ps",
+				"position"
+			],
+			[
+				"margn",
+				"margin-top"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"lin",
+				"clip-line"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"bored",
+				"border-bottom"
+			],
+			[
+				"ease",
+				"ease-out"
+			],
+			[
+				"so",
+				"source"
+			],
+			[
+				"sou",
+				"sourceArray"
+			],
+			[
+				"tran",
+				"transform"
+			],
+			[
+				"trans",
+				"transform"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"st",
+				"spritespin"
+			],
+			[
+				"sp",
+				"spritespin-element"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"se",
+				"set360"
+			],
+			[
+				"mount",
+				"mount360"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"re",
+				"response"
+			],
+			[
+				"laod",
+				"loadCache"
+			],
+			[
+				"to",
+				"top"
+			],
+			[
+				"load",
+				"loader"
+			],
+			[
+				"image",
+				"imageCache"
+			],
+			[
+				"imagec",
+				"isimageCacheReady"
+			],
+			[
+				"prev",
+				"prevID"
+			],
+			[
+				"next",
+				"nextID"
+			],
+			[
+				"colo",
+				"colorsArray"
+			],
+			[
+				"transfo",
+				"transform"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"d",
+				"download"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"gal",
+				"gallery-download"
+			],
+			[
+				"content",
+				"content-main"
+			],
+			[
+				"m",
+				"middle"
+			],
+			[
+				"poin",
+				"pointer"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"textl",
+				"text-align"
+			],
+			[
+				"fnot",
+				"font-size"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"alig",
+				"align-self"
+			],
+			[
+				"flex",
+				"flex-flow"
+			],
+			[
+				"anima",
+				"animatedPrices"
+			],
+			[
+				"teen",
+				"tweeningValue"
+			],
+			[
+				"new",
+				"newValue"
+			],
+			[
+				"tee",
+				"tween"
+			],
+			[
+				"current",
+				"currentColor"
+			],
+			[
+				"cno",
+				"console"
+			],
+			[
+				"ext",
+				"exteriorColor"
+			],
+			[
+				"curre",
+				"currentColor"
+			],
+			[
+				"de",
+				"defaultColor"
+			],
+			[
+				"tr",
+				"tr-fast"
+			],
+			[
+				"co",
+				"color-pick"
+			],
+			[
+				"curr",
+				"current-color__price"
+			],
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"color",
+				"color-list__item"
+			],
+			[
+				"button",
+				"button--subroute"
+			],
+			[
+				"pac",
+				"packet"
+			],
+			[
+				"pa",
+				"packets"
+			],
+			[
+				"E",
+				"exterior"
+			],
+			[
+				"border-",
+				"border-top"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"side",
+				"side-bar__footer"
+			],
+			[
+				"fi",
+				"fill"
+			],
+			[
+				"dis",
+				"disabled"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"toggl",
+				"toggleisPacketDetailsActive"
+			],
+			[
+				"slide",
+				"slide-up"
+			],
+			[
+				"ispa",
+				"isPacketDetailsActive"
+			],
+			[
+				"packe",
+				"packetsList"
+			],
+			[
+				"index",
+				"indexOf"
+			],
+			[
+				"che",
+				"checked"
+			],
+			[
+				"type",
+				"typeof"
+			],
+			[
+				"al",
+				"align-items"
+			],
+			[
+				"ch",
+				"check-icon"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"spec",
+				"specifications"
+			],
+			[
+				"br",
+				"border-left"
+			],
+			[
+				"tabe",
+				"table-layout"
+			],
+			[
+				"fm-group",
+				"fm-group-title"
+			],
+			[
+				"is-",
+				"is-active"
+			],
+			[
+				"size",
+				"font-size"
+			],
+			[
+				"fm-",
+				"fm-th"
+			],
+			[
+				"svg",
+				"ic-svg"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"c",
+				"console"
+			],
+			[
+				"show",
+				"showFull"
+			],
+			[
+				"COM",
+				"complectation"
+			],
+			[
+				"from",
+				"fromDepth"
+			],
+			[
+				"ge",
+				"getters"
+			],
+			[
+				"just",
+				"justify-content"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/store/state.js",
+			"settings":
+			{
+				"buffer_size": 1153,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/store/mutations.js",
+			"settings":
+			{
+				"buffer_size": 2994,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/store/actions.js",
+			"settings":
+			{
+				"buffer_size": 5912,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/store/getters.js",
+			"settings":
+			{
+				"buffer_size": 9194,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<template>\n  <transition name=\"calc-in\">\n  <div class=\"calculator\" v-if=\"isCalcActive\">\n    <div class=\"calculator-holder\">\n      <div class=\"calculator-node\">\n        <div class=\"calculator-header\">\n          Ваш расчет\n          <a href=\"#\" @click.prevent=\"close\" class=\"close\"><svg tabindex=\"-1\" aria-visible=\"false\" class=\"ic-svg\"><use xlink:href=\"#ic-close\"></use></svg></a>\n        </div>\n        <transition name=\"fade\">\n        <div class=\"calculator-body\" v-if=\"calculator && calculation\">\n          <div class=\"calculator-body__row\">\n            Модификация\n            <list :items=\"modificationList\" textKey=\"name\" valueKey=\"id\" :initialValue=\"modification\"></list>\n          </div>\n          <div class=\"calculator-body__row\">\n            \n          </div>\n        <ul>\n          <li v-for=\"item in complectationList\" :style=\"{ 'background' : (item.id === complectation) ? 'red' : '' }\">{{ item.name }} {{ item.id }}</li>\n        </ul>\n        <br>\n        <ul>\n          <li v-for=\"(item, key) in availablePrograms\">{{ calculator.programs[item].front_name }} <br> {{ item }} / {{ key }}</li>\n        </ul>\n        <br>\n          <!-- calculation {{ calculation.calc }} -->\n          <!-- calculator {{ calculator }} <br> -->\n          <!-- calculation {{ calculation }} -->\n        </div>\n        </transition>\n      </div>\n    </div>\n  </div>\n  </transition>\n</template>\n\n<script>\nimport { mapGetters } from 'vuex'\nimport List from '@/components/common/List'\n\nexport default {\n  name: 'Calculator',\n  components: { List },\n  computed: {\n    ...mapGetters({\n      calculator: 'GET_CURRENT_CALCULATOR',\n      calculation: 'GET_CURRENT_CALCULATION',\n      modificationList: 'GET_MODIFICATION_LIST',\n      complectationList: 'GET_COMPLECTATION_LIST'\n    }),\n    modification: {\n      get () {\n        return this.$store.state.configuration.modification\n      },\n      set (value) {\n        this.$store.dispatch('UPDATE_MODIFICATION', value)\n      }\n    },\n    complectation: {\n      get () {\n        return this.$store.state.configuration.complectation\n      },\n      set (value) {\n        this.$store.dispatch('UPDATE_COMPLECTATION', value)\n      }\n    },\n    programs () {\n      return this.calculator.programs\n    },\n    availablePrograms () {\n      return this.calculation.calc[36][0].programs\n    },\n    isCalcActive () {\n      return this.$store.getters.GET_CALC_ACTIVE_STATE\n    }\n  },\n  methods: {\n    close () {\n      this.$emit('close')\n    },\n    getData () {\n      this.$store.dispatch('LOAD_CALC_DATA')\n    }\n  },\n  watch: {\n    isCalcActive: function (value) {\n      if (value === true) {\n        return this.getData()\n      }\n    }\n  }\n}\n</script>\n<style lang=\"scss\">\n@import '../assets/_mixins.scss';\n\n// custom transition for the calc\n.calc-in-enter-active, .calc-in-leave-active {\n  transition: opacity .5s cubic-bezier(.55,0,.1,1) 0s;\n}\n.calc-in-enter, .calc-in-leave-active {\n  opacity: 0;\n  .calculator-holder {\n    opacity: 0;\n    transform: translate(0, 50px);\n  }\n}\n\n.calculator {\n  position: fixed;\n  top: 0;\n  left: 0;\n  right: 0;\n  bottom: 0;\n  z-index: 800;\n  overflow-x: auto;\n  overflow-y: auto;\n  background: #fbfbfb url('../assets/image/bgr_2.jpg') no-repeat center top / 100% auto;\n  width: 100%;\n}\n.calculator-holder {\n  transition: opacity .75s cubic-bezier(.55,0,.1,1) 0s, transform .75s cubic-bezier(.55,0,.1,1) 0s;\n  position: relative;\n  margin: 0 auto;\n  padding: 60px 20px;\n  max-width: 1200px;\n  min-width: 1200px;\n  width: auto;\n}\n.calculator-node {\n  background: $hollow;\n  position: relative;\n  min-height: 550px;\n  color: #fff;\n  padding: 0 50px;\n}\n.calculator-header {\n  font-size: 30px;\n  letter-spacing: 0.001em;\n  line-height: 1;\n  font-weight: 500;\n  display: flex;\n  align-items: center;\n  padding: 18px 0 30px;\n  .close {\n    margin-left: auto;\n    height: 60px;\n    width: 60px;\n    margin-right: -18px;\n    padding: 18px;\n    opacity: .35;\n    &:hover {\n      opacity: 1;\n    }\n    .ic-svg {\n      fill: currentColor;\n      display: block;\n      height: 24px;\n      width: 24px;\n    }\n  }\n}\n</style>\n",
+			"file": "src/components/Calculator.vue",
+			"file_size": 3954,
+			"file_write_time": 131471088100000000,
+			"settings":
+			{
+				"buffer_size": 4066,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/components/common/List.vue",
+			"settings":
+			{
+				"buffer_size": 2530,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/components/common/ListItem.vue",
+			"settings":
+			{
+				"buffer_size": 1158,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/components/Car/Index.vue",
+			"settings":
+			{
+				"buffer_size": 6839,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/App.vue",
+			"settings":
+			{
+				"buffer_size": 2405,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/components/Car/Complectation.vue",
+			"settings":
+			{
+				"buffer_size": 12965,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/components/Car/Modification.vue",
+			"settings":
+			{
+				"buffer_size": 11913,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"plist",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: Enable Package"
+			],
+			[
+				"pinst",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"sass",
+				"Set Syntax: AppleScript"
+			],
+			[
+				"Sass",
+				"Set Syntax: Sass"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/build",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/config",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/dist",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/src",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/src/assets",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/src/components",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/src/components/Carlist",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/src/router",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/src/routes",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/src/store",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/static",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/static/pannellum"
+	],
+	"file_history":
+	[
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/src/components/Configurator-view.vue",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/src/App.vue",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/src/routes/index.js",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/src/components/Car/Index.vue",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/src/components/Carlist/Showroom.vue",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/src/components/Car/Design.vue",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/src/components/Car/Summary.vue",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/src/components/Car/SummaryConfControls.vue",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/src/components/Car/SummarySpritespinView.vue",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/src/components/Car/Complectation.vue",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/src/assets/SvgSprite.vue",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/src/components/Car/ExteriorView.vue",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/build/webpack.prod.conf.js",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/build/webpack.dev.conf.js",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/build/webpack.base.conf.js",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/src/components/Car/Modification.vue",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/src/main.js",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/src/components/Car/SummaryStaticView.vue",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/src/components/Car/Packets.vue",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/src/components/Car/Interior.vue",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/config/index.js",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/npm-debug.log",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/src/components/Car/Spritespin.vue",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/src/components/Car/Exterior.vue",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/src/router/index.js",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/src/components/Car/Sidebar.vue",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/src/components/Car/Panorama.vue",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/src/components/Car/InteriorView.vue",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/static/pannellum/pannellum.htm",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/node_modules/jquery/package.json",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/node_modules/pannellum/package.json",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/src/components/Loader.vue",
+		"/Users/nickensoul/Work/BitBucked/hyundai/media/js/cars/pip_flat_spritespin-src.js",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/src/assets/lib/spritespin.min.js",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/src/store/index.js",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/src/assets/_fonts_conf.scss",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/src/store/mutations.js",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/src/store/actions.js",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/src/store/getters.js",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/src/store/state.js",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/src/components/Navigation.vue",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/src/components/Carlist/CarFilter.vue",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/src/components/Car/GalleryButton.vue",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/src/components/Car/Gallery.vue",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/package.json",
+		"/Users/nickensoul/Work/BitBucked/hyundai/assets/markup/kits/_header.kit",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/.gitignore",
+		"/Users/nickensoul/Downloads/configurator/апдейты/elements/Asset 1.svg",
+		"/Users/nickensoul/Downloads/configurator/апдейты/elements/radial_arrow.svg",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/src/components/Car/Compare/CompareButton.vue",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/src/store/navigation.js",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/src/components/Carlist/Index.vue",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/src/filters/index.js",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/index.html",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/node_modules/core-js/client/core.js",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/dist/index.html",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/src/assets/_variables.scss",
+		"/Users/nickensoul/Library/Application Support/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/static/_icons.scss",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/static/_mixins.scss",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/static/_variables.scss",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/static/sprite.svg",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/src/components/SvgSprite.vue",
+		"/Users/nickensoul/Work/BitBucked/hyundai/assets/markup/kits/_highlight-nav.kit",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/static/assets/icon.svg",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/.eslintignore",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/src/store/setters.js",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/static/icon.svg",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/src/routes/list.js",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/src/components/Car/Car.vue",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/src/components/Modifications.vue",
+		"/Users/nickensoul/Work/BitBucked/hyundai/config_src/src/components/Summary.vue",
+		"/Users/nickensoul/Work/BitBucked/hyundai/assets/source/scss/base/_variables.scss",
+		"/Users/nickensoul/Work/BitBucked/hyundai/assets/source/scss/helpers/_mixins.scss",
+		"/Users/nickensoul/Work/BitBucked/hyundai/assets/css/style.css",
+		"/Applications/Adobe Illustrator CC 2017/CEP/extensions/com.adobe.DesignLibraries.angular.touch/applications/PHXS/jsx/constants.jsx",
+		"/Users/nickensoul/Sites/vue-test/node_modules/babel-core/lib/helpers/normalize-ast.js",
+		"/Users/nickensoul/Sites/vue-test/src/main.js",
+		"/Users/nickensoul/Sites/vue-test/node_modules/vue-router/src/history/base.js",
+		"/Users/nickensoul/Sites/vue-test/package.json",
+		"/Users/nickensoul/Sites/vue-test/index.html",
+		"/Users/nickensoul/Sites/vue-test/src/App.vue",
+		"/Users/nickensoul/Sites/vue-test/src/components/About.vue",
+		"/Users/nickensoul/Sites/vue-test/src/components/Hello.vue",
+		"/Users/nickensoul/Sites/vue-test/src/router/index.js",
+		"/Users/nickensoul/Sites/vue-test/.editorconfig",
+		"/Users/nickensoul/Sites/vue-test/.eslintrc.js",
+		"/Users/nickensoul/Sites/vue-test/.postcssrc.js",
+		"/Users/nickensoul/Work/BitBucked/divany_express/local/templates/main_v2/scss/_style.scss",
+		"/Users/nickensoul/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/nickensoul/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/nickensoul/Sites/bwt-products/src/js/app.js",
+		"/Users/nickensoul/Sites/bwt-products/src/css/base.scss",
+		"/Users/nickensoul/Sites/bwt-products/src/css/style.scss",
+		"/Users/nickensoul/Library/Application Support/Sublime Text 3/Installed Packages/Enki Theme.sublime-package",
+		"/Users/nickensoul/Sites/bwt-products/src/js/build.js",
+		"/Users/nickensoul/Sites/bwt-products/src/index.html",
+		"/Users/nickensoul/Sites/bwt-products/src/js/vendors.js",
+		"/Users/nickensoul/Desktop/Sublime Text.icns",
+		"/Users/nickensoul/Work/BitBucked/genesis_main/js/build.src.js",
+		"/Users/nickensoul/Sites/hexo/node_modules/moment/locale/nl.js",
+		"/Users/nickensoul/Sites/hexo/themes/landscape/source/css/_extend.styl",
+		"/Users/nickensoul/Work/BitBucked/genesis_main/finance.html",
+		"/Users/nickensoul/Sites/diz/public/js/main.js",
+		"/Users/nickensoul/Work/BitBucked/hyundai/media/css/cars/pip_flat_TL.css",
+		"/Users/nickensoul/Sites/st/build/css/style.css",
+		"/Users/nickensoul/Sites/st/source/js/main.js",
+		"/Users/nickensoul/Sites/st/source/css/style.scss",
+		"/Users/nickensoul/Work/BitBucked/hyundai/assets/source/js/home.js",
+		"/Users/nickensoul/Work/BitBucked/hyundai/assets/markup/index.kit",
+		"/Users/nickensoul/Work/BitBucked/hyundai/assets/source/js/common.js",
+		"/Users/nickensoul/Work/BitBucked/bwt/markup_src/css/style.scss",
+		"/Users/nickensoul/Work/BitBucked/hyundai/assets/libs/spreader.min.js",
+		"/Users/nickensoul/Work/BitBucked/hyundai/assets/js/home.js",
+		"/Users/nickensoul/Work/BitBucked/hyundai/assets/source/js/bundle.js",
+		"/Users/nickensoul/Work/BitBucked/hyundai/assets/js/bundle.js",
+		"/Users/nickensoul/Work/BitBucked/hyundai/media/js_new/solaris-2017.js",
+		"/Users/nickensoul/Work/BitBucked/hyundai/assets/source/scss/style.scss",
+		"/Users/nickensoul/Work/BitBucked/hyundai/assets/source/scss/base/_base.scss",
+		"/Users/nickensoul/Work/BitBucked/hyundai/assets/source/scss/pages/home.scss",
+		"/Users/nickensoul/Work/BitBucked/hyundai/assets/markup/kits/home/_hero.kit",
+		"/Users/nickensoul/Work/BitBucked/bwt-landing/build/js/build.min.js",
+		"/Users/nickensoul/Work/BitBucked/hyundai/assets/js/bundle.min.js",
+		"/Users/nickensoul/Work/BitBucked/hyundai/assets/source/js/app.js",
+		"/Users/nickensoul/Work/BitBucked/hyundai/assets/bundle.min.js",
+		"/Users/nickensoul/Work/BitBucked/hyundai/assets/css/style.min.css",
+		"/Users/nickensoul/Sites/lial/index_files/stylesheet.css",
+		"/Users/nickensoul/Downloads/markup/css/rewrite-styles.css"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 115.0,
+		"where_history":
+		[
+			"/Users/nickensoul/Work/BitBucked/hyundai/config_src/src",
+			"<open folders>,<open folders>",
+			"<open folders>",
+			"/Users/nickensoul/Work/BitBucked/hyundai/config_src",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			":class",
+			"class",
+			"ListItem,",
+			"calculator",
+			"GET_CURRENT_CALCULATION",
+			"GET_CALC_ACTIVE_STATE",
+			"LOAD_CALC_DATA",
+			"GET_CALCULATOR",
+			"PUSH_CALCULATION_DATA",
+			"GET_CALCULATOR",
+			"OPEN_CALC",
+			"http://conf_api.hyundai.familyagency.ru/",
+			"CALCULATOR",
+			"calculator",
+			"is-active",
+			"activated",
+			"console",
+			"openCalc",
+			"full-list",
+			"creditCalc",
+			"frame",
+			"full-list__subwrap",
+			"summary-buttons",
+			"[name]",
+			"control__inner",
+			"summary-sticker",
+			"margin: 0 auto;\n  max-width: 1160px;\n  width: auto;\n  position: relative;\n  background: #fff;",
+			".fm-group-title__inner",
+			"ic-svg",
+			"fm-group",
+			"fm-group-title__inner",
+			"fm-group-title",
+			"срав",
+			"fm-",
+			"GET_SUMMARY",
+			"frame",
+			"spritespin-slider__point",
+			"summary-spritespin-element",
+			"prices__credit",
+			"isCreta",
+			"creta-fix",
+			"isCreta",
+			"lastFrameSrc",
+			"ID",
+			"view360sources",
+			"lockControls",
+			"GET_CAR_PICTURE",
+			"exterior-controls",
+			"value",
+			"isCreditAvaible",
+			"car-view",
+			"summary-car-view",
+			"complectation",
+			"packetSelect",
+			"isLoaded",
+			"$$state",
+			"GET_CREDIT_PAYMENT",
+			"loading...",
+			"loading",
+			"загрузк",
+			"загрузка..",
+			"side-bar__row-name",
+			"side-bar__body-row",
+			"side-bar__modification",
+			"side-bar__row-price",
+			"pnlm-control",
+			"pnlm-zoom-in",
+			".pnlm-controls",
+			"pnlm-fullscreen-toggle-button",
+			".pnlm-sprite",
+			".pnlm-controls-container",
+			".static-layer {\n  position: relative;\n  z-index: 2;\n  margin: 0 auto;\n}",
+			"conf_test",
+			"window.",
+			"$",
+			"$ ",
+			"interiorSource",
+			"interior",
+			"colors",
+			"lockControls",
+			"design-view__inner",
+			"gallery",
+			"exterior-control",
+			".design-layer__main",
+			"cons",
+			"currentColorID",
+			"lockControls",
+			"set360",
+			"isImageCacheReady",
+			"change",
+			"exterior-control__inner",
+			"GET_DESIGN_CACHE",
+			"packetsSelected",
+			"top",
+			"data-width",
+			"inititalOnload",
+			"isDesignReady",
+			"isImageCacheReady",
+			"\"",
+			"exteriorSources",
+			"$spritespin",
+			"colors",
+			"colorsArray",
+			"isImageCacheReady",
+			"},\n",
+			"bind",
+			"unbind",
+			"unon",
+			"unbind",
+			"bind",
+			"spritespin-layer",
+			"spritespin",
+			"framesSrc",
+			"currentColor",
+			"colorChanged",
+			"spritespin",
+			"',\n",
+			"spritespin",
+			"changed",
+			"colorChanged",
+			"spritespin",
+			"isDesignReady",
+			"this",
+			"loadCache",
+			"loading",
+			"isCached",
+			"modification",
+			"currentColor"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"sm-",
+			"interior-control",
+			"'",
+			"on",
+			"off",
+			"on",
+			"exteriorSources",
+			"$font_path + \"",
+			"$font_path",
+			"static/fonts/",
+			"),\n    url(",
+			"\n  }\n  @font-face {",
+			";\n    src:url(\"/",
+			"@font-face {\n  font",
+			"console",
+			"packetInfoID",
+			"isPacketInfoActive",
+			"link-nav-back",
+			"getters.GET_COMPLECTATION_ID",
+			"getters.GET_MODIFICATION_ID",
+			"packetDetailsID",
+			"isPacketDetailsActive",
+			"packetDetails",
+			"fullComplectation",
+			"packet-item",
+			"complectation-item__row",
+			"complectation",
+			"update_value",
+			"filter-slider-panel",
+			"",
+			"/>\n  </symbol>",
+			"  </symbol>\n  \n  <symbol ",
+			"  </symbol>",
+			"/static/assets/fonts/HyundaiSans",
+			"./static/assets/fonts/HyundaiSans",
+			"",
+			"changeState",
+			"bbsn_"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/store/state.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1153,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								251,
+								251
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Enki.tmTheme",
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 164.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/store/mutations.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2994,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2848,
+								2848
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Enki.tmTheme",
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 181.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/store/actions.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5912,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5039,
+								5039
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Enki.tmTheme",
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1388.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/store/getters.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9194,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2535,
+								2555
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Enki.tmTheme",
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 557.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/components/Calculator.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4066,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								556,
+								567
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Enki.tmTheme",
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/Vue Syntax Highlight/vue.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 9.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/components/common/List.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2530,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1301,
+								1301
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Enki.tmTheme",
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/Vue Syntax Highlight/vue.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 618.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/components/common/ListItem.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1158,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								925,
+								925
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Enki.tmTheme",
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/Vue Syntax Highlight/vue.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 164.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "src/components/Car/Index.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6839,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6829,
+								6829
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Enki.tmTheme",
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/Vue Syntax Highlight/vue.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "src/App.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2405,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1764,
+								1642
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Enki.tmTheme",
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/Vue Syntax Highlight/vue.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 912.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "src/components/Car/Complectation.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12965,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2758,
+								2764
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Enki.tmTheme",
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/Vue Syntax Highlight/vue.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 525.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "src/components/Car/Modification.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11913,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7677,
+								7479
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Enki.tmTheme",
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/Vue Syntax Highlight/vue.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2411.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 64.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 132.0
+	},
+	"pinned_build_system": "",
+	"project": "configurator.sublime-project",
+	"replace":
+	{
+		"height": 114.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pannellum",
+				"node_modules/pannellum/build/pannellum.js"
+			],
+			[
+				"",
+				"node_modules/moment/locale/nl.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 701.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 178.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

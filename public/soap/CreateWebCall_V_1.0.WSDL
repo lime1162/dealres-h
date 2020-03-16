@@ -1,0 +1,109 @@
+<definitions targetNamespace="http://siebel.com/asi" xmlns="http://schemas.xmlsoap.org/wsdl/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:xsdLocal1="http://www.siebel.com/xml/Request" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:xsdLocal2="http://www.siebel.com/xml/Response" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:tns="http://siebel.com/asi">
+   <types>
+      <!--Request Definition-->
+      <xsd:schema elementFormDefault="qualified" attributeFormDefault="unqualified" targetNamespace="http://www.siebel.com/xml/Request">
+         <xsd:element name="Payload" type="xsdLocal1:Payload"/>
+         <xsd:complexType name="PayloadTopElmt">
+            <xsd:sequence>
+               <xsd:element name="Payload" maxOccurs="1" minOccurs="1" type="xsdLocal1:Payload"/>
+            </xsd:sequence>
+         </xsd:complexType>
+         <xsd:complexType name="Payload">
+            <xsd:sequence>
+               <xsd:element name="Request" maxOccurs="1" minOccurs="1" type="xsdLocal1:Request"/>
+            </xsd:sequence>
+         </xsd:complexType>
+         <xsd:complexType name="Request">
+            <xsd:sequence>
+               <xsd:element name="Subsidiary" maxOccurs="1" minOccurs="1" type="xsd:string"/>
+               <xsd:element name="ExternalSystem" maxOccurs="1" minOccurs="1" type="xsd:string"/>
+               <xsd:element name="InterfaceCode" maxOccurs="1" minOccurs="1" type="xsd:string"/>
+               <xsd:element name="Customer" maxOccurs="1" minOccurs="1" type="xsdLocal1:Customer"/>
+            </xsd:sequence>
+         </xsd:complexType>
+         <xsd:complexType name="Customer">
+            <xsd:attribute name="Salutation" type="xsd:string"/>
+            <xsd:attribute name="FirstName" type="xsd:string"/>
+            <xsd:attribute name="LastName" type="xsd:string"/>
+            <xsd:attribute name="MiddleName" type="xsd:string"/>
+            <xsd:attribute name="EmailAddress" type="xsd:string"/>
+            <xsd:attribute name="MobilePhone" type="xsd:string"/>
+            <xsd:attribute name="DateofBirth" type="xsd:string"/>
+            <xsd:attribute name="MarketingAgreement" type="xsd:string"/>
+         </xsd:complexType>
+      </xsd:schema>
+      <!--Response Definition-->
+      <xsd:schema elementFormDefault="qualified" attributeFormDefault="unqualified" targetNamespace="http://www.siebel.com/xml/Response">
+         <xsd:element name="Payload" type="xsdLocal2:Payload"/>
+         <xsd:complexType name="PayloadTopElmt">
+            <xsd:sequence>
+               <xsd:element name="Payload" maxOccurs="1" minOccurs="1" type="xsdLocal2:Payload"/>
+            </xsd:sequence>
+         </xsd:complexType>
+         <xsd:complexType name="Payload">
+            <xsd:sequence>
+               <xsd:element name="Response" maxOccurs="1" minOccurs="1" type="xsdLocal2:Response"/>
+            </xsd:sequence>
+         </xsd:complexType>
+         <xsd:complexType name="Response">
+            <xsd:sequence>
+               <xsd:element name="ResultCode" maxOccurs="1" minOccurs="1" type="xsd:string"/>
+               <xsd:element name="ErrorMessage" maxOccurs="1" minOccurs="1" type="xsd:string"/>
+               <xsd:element name="LogId" maxOccurs="1" minOccurs="1" type="xsd:string"/>
+            </xsd:sequence>
+         </xsd:complexType>
+      </xsd:schema>
+      <!--Argument Definition-->
+      <xsd:schema elementFormDefault="qualified" attributeFormDefault="unqualified" targetNamespace="http://siebel.com/asi">
+         <xsd:import namespace="http://www.siebel.com/xml/Request"/>
+         <xsd:import namespace="http://www.siebel.com/xml/Response"/>
+         <xsd:element name="ProcessMessage_Input">
+            <xsd:complexType>
+               <xsd:sequence>
+                  <xsd:element ref="xsdLocal1:Payload"/>
+               </xsd:sequence>
+            </xsd:complexType>
+         </xsd:element>
+         <xsd:element name="ProcessMessage_Output">
+            <xsd:complexType>
+               <xsd:sequence>
+                  <xsd:element ref="xsdLocal2:Payload"/>
+               </xsd:sequence>
+            </xsd:complexType>
+         </xsd:element>
+      </xsd:schema>
+   </types>
+   <!--Message Definition-->
+   <message name="ProcessMessage_Input">
+      <part name="ProcessMessage_Input" element="tns:ProcessMessage_Input"/>
+   </message>
+   <message name="ProcessMessage_Output">
+      <part name="ProcessMessage_Output" element="tns:ProcessMessage_Output"/>
+   </message>
+   <!--Port Definition-->
+   <portType name="hkmeTransport">
+      <operation name="ProcessMessage">
+         <input message="tns:ProcessMessage_Input"/>
+         <output message="tns:ProcessMessage_Output"/>
+      </operation>
+   </portType>
+   <!--Operation Binding-->
+   <binding name="hkmeTransport" type="tns:hkmeTransport">
+      <soap:binding transport="http://schemas.xmlsoap.org/soap/http" style="document"/>
+      <operation name="ProcessMessage">
+         <soap:operation soapAction="document/http://siebel.com/asi:ProcessMessage"/>
+         <input>
+            <soap:body use="literal"/>
+         </input>
+         <output>
+            <soap:body use="literal"/>
+         </output>
+      </operation>
+   </binding>
+   <!--Service Definition-->
+   <service name="HKME_Inbound_Web_Service">
+      <port binding="tns:hkmeTransport" name="hkmeTransport">
+         <soap:address location="https://rus.europe-crm.net/eai_anon_enu/start.swe?SWEExtSource=SecureWebService&amp;SWEExtCmd=Execute"/>
+      </port>
+   </service>
+</definitions>

@@ -1,0 +1,660 @@
+@media (min-width: 951px) {
+  .promo-head {
+    min-height: 520px;
+  }
+}
+
+.blue-panel {
+  position: absolute;
+  left: 0;
+  bottom: 48px;
+  background-color: #002C5F;
+  color: #fff;
+  font-size: 2.0rem;
+  line-height: 1.2;
+  font-weight: 500;
+  padding: 12px 32px 12px 43px;
+  transition-delay: 0.3s;
+}
+
+.blue-panel__inner div {
+  line-height: 37px;
+  transition: transform 0.5s;
+  transition-delay: 0.8s;
+}
+.blue-panel__inner div:not(:last-of-type) {
+  border-bottom: 1px solid #37608D;
+}
+
+.blue-panel__more {
+  display: flex;
+  align-items: center;
+  color: #AACAE6;
+}
+.blue-panel__more svg {
+  display: block;
+  width: 7px;
+  height: 12px;
+  margin-left: 8px;
+}
+.banner__head {
+  color: #fff;
+}
+h2.title-offer {
+  padding-top: 48px;
+}
+.dyn_pic {
+  position: relative;
+}
+.dyn_desc {
+  color: #000;
+  margin-top: 15px;
+  font-weight: 500;
+  font-size: 16px; 
+  font-family: 'HyundaiSansHead';
+}
+
+.nav {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	flex-wrap: nowrap;
+	padding-left: 32px;
+	background-color: #f1f1f1;;
+	overflow: hidden;
+  z-index: 100;
+}
+.nav__menu {
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+.nav__item:not(:last-of-type) {
+  margin-right: 40px;
+}
+.nav__link {
+  display: block;
+  font-size: 1.6rem;
+  color: #000;
+  font-weight: 500;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  white-space: nowrap;
+  transition: 0.3s;
+}
+.nav__link:hover {
+  color: #00AAD2;
+}
+.nav__link.active {
+	color: #00AAD2;
+  box-shadow: inset 0px -3px 0 0px #00AAD2;
+}
+.nav__buttons {
+  display: flex;
+}
+.nav__button {
+  padding: 12px 19px!important;
+}
+
+.overflow-hidden .nav {
+  z-index: 0;
+}
+
+.blue-label {
+	background-color: #002C5F;
+	color: #fff;
+	padding: 20px 39px 20px 32px;
+  transition: 0.5s;
+}
+.blue-label__inner {
+  width: 940px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center; 
+  justify-content: space-between; 
+}
+.blue-label__left {
+  display: flex;
+  align-items: center;
+}
+.blue-label__top {
+  font-size: 42px;
+  font-weight: 500;
+  line-height: 48px;
+}
+.blue-label__bottom {
+  font-size: 1.6rem;
+  font-weight: 500;
+}
+.blue-label	hr {
+  border-color: #37608D;
+  margin-top: 6px;
+  margin-bottom: 14px;
+}
+.blue-label--extended {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.reservation__button {
+  background-color: #fff;
+  color: #002C5F;
+  padding: 12px 48px;
+}
+.reservation__button:hover {
+  background-color: #EDF5FE;
+}
+.reservation__stock-text {
+  color: #fff;
+}
+.blue-label__separate {
+  width: 1px;
+  height: 64px;
+  background-color: #37608D;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+.blue-label__reservation {
+  display: flex;
+  align-items: center;
+}
+
+.offers-container .content_area--form {
+  background-color: #F8F8F8;
+  padding-top: 64px;
+  padding-bottom: 80px;
+}
+.form {
+  width: 940px;
+  margin: 0 auto;
+  display: flex;
+}
+.form__title {
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 36px;
+  color: #000;
+  margin-bottom: 8px;
+}
+.form__subtitle {
+  font-size: 20px;
+  line-height: 32px;
+  color: #000;
+  margin-bottom: 16px;
+}
+.form__left {
+  background-color: #fff;
+  padding: 38px 16px 45px 38px;
+  width: calc(100% - 312px);
+}
+.form__right {
+  background-color: #103A71;
+  padding: 40px 32px 34px;
+  width: 312px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.form__item:not(:last-child) {
+  margin-bottom: 26px;
+}
+.form__item-title {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  margin-bottom: 6px;
+  color: #fff;
+}
+.form__item-value {
+  display: flex;
+  align-items: center;
+}
+.form__item-text {
+  font-size: 16px;
+  line-height: 24px;
+  color: #b7b7b7;
+}
+.form-color {
+  border-radius: 50%;
+  margin-right: 10px;
+  width: 24px;
+  height: 24px;
+}
+.form-color--black {
+  background-color: #000;
+}
+.form__price {
+  margin-top: 46px;
+  margin-bottom: 24px;
+}
+.form__price-title {
+  color: #fff;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 36px;
+  margin-bottom: 3px;
+}
+.form__price-text {
+  font-size: 16px;
+  line-height: 24px;
+  color: #fff;
+}
+.button--form {
+  background-color: #00AAD2;
+  margin-bottom: 16px;
+}
+.button--form:hover {
+  background-color: #10b5dc;
+}
+.form__desc {
+  text-align: center;
+  font-size: 16px;
+  line-height: 24px;
+  color: #fff;
+  text-decoration: underline;
+  cursor: pointer;
+}
+.form .view__bottom {
+  display: none;
+}
+.form .view__title {
+  display: none;
+}
+.form .view {
+  padding: 0;
+}
+
+.arrow-mob {
+  display: none;
+}
+
+.more-popup {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.more-popup .df-popup__wrap {
+  max-width: 940px;
+  width: 100%;
+  background-color: #fff;
+  padding: 64px 48px;
+  margin: 32px;
+  height: auto;
+  min-height: auto;
+  position: relative;
+  flex-direction: column;
+}
+.more-popup .df-popup__center {
+  position: static;
+}
+.more-popup__title {
+  font-size: 32px;
+  margin-bottom: 16px;
+}
+.more-popup__text {
+  font-size: 18px;
+  margin-bottom: 32px;
+  width: 100%;
+}
+.more-popup__buttons {
+  display: flex;
+  justify-content: center;
+}
+.more-popup__buttons .df-button {
+  margin: 0 16px;
+}
+
+h2.title-offer {
+  margin-bottom: 0!important;
+}
+#second-screen h2.title-offer {
+  margin-bottom: 40px!important;
+}
+
+@media only screen and (max-width: 1262px) {
+	.nav {
+    padding: 0 40px;
+  }
+  .nav__buttons {
+    display: none;
+  }
+
+  .more-popup .df-popup__wrap {
+    margin: 40px;
+  }
+}
+
+@media only screen and (max-width: 1439px) and (min-width: 1400px) {
+  .nav__item:not(:last-of-type) {
+    margin-right: 32px;
+  }
+}
+@media only screen and (max-width: 1399px) and (min-width: 1263px) {
+  .nav__link {
+    font-size: 1.4rem;
+  }
+  .nav__item:not(:last-of-type) {
+    margin-right: 24px;
+  }
+}
+
+@media only screen and (max-width: 1200px) {
+  .arrow-mob {
+    display: block;
+    position: absolute;
+    right: 40px;
+    bottom: 40px;
+  }
+  .arrow-mob__icon {
+    width: 60px;
+    height: 60px;
+  }
+}
+
+@media only screen and (max-width: 1024px) {
+  .nav {
+    overflow: auto;
+  }
+}
+
+@media only screen and (max-width: 1023px) {
+  .blue-label__top {
+    font-size: 30px;
+    line-height: 32px;
+  }
+
+  .form {
+    flex-direction: column;
+    width: 100%;
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+  .form__left {
+    width: 100%;
+  }
+  .form__right {
+    width: 100%;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+  }
+  .form__price {
+    margin-top: 0;
+  }
+
+  .more-popup .df-popup__wrap {
+    margin: 16px;
+  }
+}
+
+@media only screen and (max-width: 950px) {
+  .blue-label__left {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .blue-label__separate {
+    width: 200px;
+    height: 1px;
+    margin: 16px 0;
+  }
+  .blue-panel {
+    font-size: 16px;
+    bottom: 40px;
+    padding: 0px 13px 0px 18px;
+  }
+  .blue-panel__inner div {
+    line-height: 33px;
+  }
+
+  .more-popup__text {
+    font-size: 17px;  
+  }
+  h1.title-offer {
+    font-size: 40px;
+  }
+  h2.title-offer {
+    font-size: 36px;
+    padding-top: 36px;
+    line-height: 1.2;
+  }
+  #second-screen h2.title-offer {
+    margin-bottom: 32px!important;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+	.nav {
+		padding: 0 16px;
+    overflow: auto;
+  }
+  .nav__item {
+    margin-right: 24px;
+  }
+  .nav__item:not(:last-of-type) {
+    margin-right: 24px;
+  }
+
+  .arrow-mob {
+    right: 32px;
+    bottom: 32px;
+  }
+
+  .dyn_desc {
+    font-size: 14px;
+    margin-top: 12px;
+  }
+
+  h1.title-offer {
+    font-size: 36px;
+  }
+  h2.title-offer {
+    font-size: 30px;
+    padding-top: 30px;
+  }
+}
+
+@media only screen and (max-width: 640px) {
+  .blue-label__left {
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 32px;
+  }
+  .blue-label__separate {
+    width: 1px;
+    height: 32px;
+    margin: 0 24px;
+  }
+  .blue-label__inner {
+    flex-direction: column;
+  }
+
+  .form__left {
+    padding: 20px 20px 24px;
+  }
+  .form__right {
+    align-items: flex-start;
+    justify-content: space-between;
+    padding: 30px;
+  }
+  .form__price-title {
+    line-height: 32px;
+    margin-bottom: 3px;
+  }
+  .form__title {
+    font-size: 20px;
+    line-height: 24px;
+    margin-bottom: 2px;
+  }
+  .form__subtitle {
+    font-size: 16px;
+    line-height: 24px;
+  }
+
+  .offers-container .content_area--form {
+    padding-top: 40px;
+    padding-bottom: 48px;  
+  }
+
+  .more-popup__title {
+    font-size: 28px;
+    margin-bottom: 12px;
+  }
+  .more-popup__text {
+    font-size: 16px;  
+  }
+  .more-popup .df-popup__wrap {
+    padding: 48px;
+  }
+  .more-popup__title {
+      margin-bottom: 16px;
+  }
+  .more-popup__buttons {
+    flex-direction: column;
+  }
+  .more-popup__buttons .df-button {
+      margin: 16px 0;
+  }
+
+  .blue-panel {
+    bottom: 32px;
+  }
+  h2.title-offer {
+    font-size: 30px;
+    line-height: 32px;
+    padding-top: 32px;
+  }
+  .dyn_pic1 {
+    padding-bottom: 35px;
+  }
+  .dyn_pic2 {
+    padding-bottom: 0;
+  }
+  .dyn_desc {
+    margin-top: 10px;
+  }
+}
+
+@media only screen and (max-width: 540px) {
+  .form__right {
+    flex-direction: column;
+    align-items: center;
+  }
+  .form__price {
+    text-align: center;
+  }
+  .form__bottom {
+    margin-top: 32px;
+  }
+  .form__item:not(:last-child) {
+    margin-bottom: 16px;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .blue-label__left {
+    flex-direction: column; 
+    margin-bottom: 12px; 
+  }
+  .blue-label__separate {
+    display: none;
+  }
+  .reservation__stock {
+    margin-top: 18px;
+  }
+
+  .more-popup__title {
+    font-size: 26px;
+  }
+  .more-popup__text {
+    font-size: 15px;
+    line-height: 18px;  
+  }
+
+  .arrow-mob {
+    right: 16px;
+  }
+}
+
+@media only screen and (max-width: 415px) {
+  .blue-label__inner {
+    align-items: flex-start; 
+  }
+  .blue-label__separate {
+    display: none;
+  }
+  .reservation__stock {
+    margin-top: 18px;
+  }
+  .blue-label__reservation {
+    width: 100%;
+  }
+  .reservation__button {
+    width: 100%;
+    padding: 12px 12px;
+  }
+  .blue-label__left {
+    align-items: flex-start;
+  }
+  .blue-label {
+    padding: 20px 30px 30px;
+  }
+
+  .form__right {
+    align-items: flex-start;
+    padding: 25px 20px 22px;
+  }
+  .form__price {
+    text-align: left;
+  }
+  .form__bottom {
+    width: 100%;
+  }
+
+  .more-popup__title {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  .more-popup .df-popup__wrap {
+    min-height: 100vh;
+    top: 48px;
+  }
+  .banner__head {
+    right: 30px;
+  }
+  h1.title-offer {
+    font-size: 30px;
+  }
+  h2.title-offer {
+    font-size: 24px;
+    padding-top: 24px;
+  }
+}
+
+
+@media (max-width: 400px) {
+  .more-popup .df-popup__wrap {
+    padding: 32px;
+  }
+  .more-popup__title {
+    font-size: 18px;
+  }
+
+  .arrow-mob__icon {
+    width: 48px;
+    height: 48px;
+  }
+}
+
+@media (max-width: 350px) {
+  .df-main-banner__title {
+    font-size: 32px;
+  }
+
+  .blue-panel {
+    font-size: 15px;
+  }
+  .arrow-mob__icon {
+    width: 36px;
+    height: 36px;
+  }
+}

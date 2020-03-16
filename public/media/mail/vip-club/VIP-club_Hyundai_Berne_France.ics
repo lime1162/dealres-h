@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 14.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:PUBLISH
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20190131T153343Z
+DESCRIPTION:Дорогие коллеги!\nHyundai Motor CIS благод
+	арит вас за сотрудничество и большой вкл
+	ад в развитие бренда в регионе.\nДля подд
+	ержания и дальнейшего укрепления нашего
+	 партнерства приглашаем вас в мотивацио
+	нную поездку.\n
+DTEND;VALUE=DATE:20190420
+DTSTAMP:20190131T153343Z
+DTSTART;VALUE=DATE:20190417
+LAST-MODIFIED:20190131T153343Z
+LOCATION:Château de Berne\, Chemin des Imberts\, 83780 Flayosc\, Фран
+	ция
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=ru:VIP-клуб дилеров Hyundai
+TRANSP:TRANSPARENT
+UID:040000008200E00074C5B7101A82E008000000005035905D93B9D401000000000000000
+	01000000098D808F875498C4B9E91E2A461FE7666
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 14.02.5004.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="ru"><FONT FACE="Calibri"
+	>Дорогие коллеги!</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG
+	="ru"><FONT FACE="Calibri">Hyundai Motor CIS благодарит вас 
+	за сотрудничество и большой вклад в разв
+	итие бренда в регионе.</FONT></SPAN><SPAN LANG="ru"></SP
+	AN></P>\n\n<P DIR=LTR><SPAN LANG="ru"><FONT FACE="Calibri">Для подд
+	ержания и дальнейшего укрепления нашего
+	 партнерства приглашаем вас в мотивацио
+	нную поездку.</FONT></SPAN><SPAN LANG="ru"></SPAN></P>\n\n</BOD
+	Y>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+BEGIN:VALARM
+TRIGGER:-PT1080M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

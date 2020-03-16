@@ -1,0 +1,90 @@
+module.exports = {
+	"scenarios": [
+		{
+		  "label": "motorstudio--event",
+		  "cookiePath": "",
+		  "url": "",
+		  "referenceUrl": "",
+		  "readyEvent": "",
+		  "readySelector": "",
+		  "delay": 2500,
+		  "hideSelectors": [],
+		  "removeSelectors": [".p-lang"],
+		  "hoverSelector": "",
+		  "clickSelector": "",
+		  "postInteractionWait": 1500,
+		  "selectors": [],
+		  "selectorExpansion": true,
+		  "expect": 0,
+		  "misMatchThreshold" : 0.1,
+		  "requireSameDimensions": true
+		},
+		{
+		  "label": "motorstudio--form",
+		  "cookiePath": "",
+		  "url": "",
+		  "referenceUrl": "",
+		  "readyEvent": "",
+		  "readySelector": "",
+		  "delay": 2500,
+		  "hideSelectors": [],
+		  "removeSelectors": [".p-lang"],
+		  "hoverSelector": "",
+		  "clickSelector": ".p-event__button",
+		  "postInteractionWait": 1500,
+		  "selectors": [".contact-form__center"],
+		  "selectorExpansion": true,
+		  "expect": 0,
+		  "misMatchThreshold" : 0.1,
+		  "requireSameDimensions": true
+		},
+		{
+		  "label": "motorstudio--form-validation",
+		  "cookiePath": "",
+		  "url": "",
+		  "referenceUrl": "",
+		  "readyEvent": "",
+		  "readySelector": "",
+		  "delay": 2500,
+		  "hideSelectors": [],
+		  "removeSelectors": [".p-lang"],
+		  "hoverSelector": "",
+		  "clickSelectors": [".p-event__button", ".contact-form__button"],
+		  "postInteractionWait": 2500,
+		  "selectors": [".contact-form__center"],
+		  "selectorExpansion": true,
+		  "expect": 0,
+		  "misMatchThreshold" : 0.1,
+		  "requireSameDimensions": true,
+		  "viewports": [{
+			  "label": "desctop",
+			  "width": 1920,
+			  "height": 1080
+			}]
+		},
+		{
+		  "label": "motorstudio rules popup",
+		  "cookiePath": "",
+		  "url": "",
+		  "referenceUrl": "",
+		  "readyEvent": "",
+		  "readySelector": "",
+		  "delay": 2500,
+		  "hideSelectors": [],
+		  "removeSelectors": [".p-lang"],
+		  "hoverSelector": "",
+		  "clickSelectors": [".p-event__button", ".form-accept__description a"],
+		  "postInteractionWait": 2500,
+		  "selectors": [],
+		  "selectorExpansion": true,
+		  "expect": 0,
+		  "misMatchThreshold" : 0.1,
+		  "requireSameDimensions": true,
+		  "viewports": [{
+			  "label": "desctop",
+			  "width": 1920,
+			  "height": 1080
+			}]
+		}
+	  ]
+}

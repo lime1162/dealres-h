@@ -1,0 +1,25 @@
+define({
+  "name": "Hyundai Sonata",
+  "version": "1.0.0",
+  "description": "",
+  "title": "Hyundai Sonata API",
+  "url": "http://dev-hyusonata.devup.cc/",
+  "sampleUrl": "http://dev-hyusonata.devup.cc/",
+  "template": {
+    "withCompare": false,
+    "withGenerator": false
+  },
+  "order": [
+    "Account",
+    "Agreement",
+    "Persons"
+  ],
+  "defaultVersion": "0.0.0",
+  "apidoc": "0.3.0",
+  "generator": {
+    "name": "apidoc",
+    "time": "2019-11-12T14:34:30.501Z",
+    "url": "http://apidocjs.com",
+    "version": "0.17.7"
+  }
+});

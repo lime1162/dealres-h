@@ -1,0 +1,55 @@
+{
+    "id": "backstop_default",
+    "viewports": [
+      {
+        "label": "desctop",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "label": "small desctop",
+        "width": 1280,
+        "height": 800
+      }
+    ],
+    "onBeforeScript": "puppet/onBefore.js",
+    "onReadyScript": "puppet/onReady.js",
+    "scenarios": [
+      {
+        "label": "Kit",
+        "cookiePath": "",
+        "url": "http://hyundai/markup/static/kit",
+        "referenceUrl": "",
+        "readyEvent": "",
+        "readySelector": "",
+        "delay": 2500,
+        "hideSelectors": [],
+        "removeSelectors": [],
+        "hoverSelector": "",
+        "clickSelector": [],
+        "postInteractionWait": 0,
+        "selectors": [],
+        "selectorExpansion": true,
+        "expect": 0,
+        "misMatchThreshold" : 0.1,
+        "requireSameDimensions": true
+      }
+    ],
+    "paths": {
+      "bitmaps_reference": "backstop_data/bitmaps_reference",
+      "bitmaps_test": "backstop_data/bitmaps_test",
+      "engine_scripts": "backstop_data/engine_scripts",
+      "html_report": "backstop_data/html_report",
+      "ci_report": "backstop_data/ci_report"
+    },
+    "report": ["browser"],
+    "engine": "puppeteer",
+    "engineOptions": {
+      "args": ["--no-sandbox"]
+    },
+    "asyncCaptureLimit": 2,
+    "asyncCompareLimit": 5,
+    "debug": false,
+    "debugWindow": false
+  }
+  
